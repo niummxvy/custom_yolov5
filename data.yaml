@@ -1,0 +1,8 @@
+names:
+- holothurian
+- echinus
+- scallop
+- starfish
+nc: 4
+train: ./train/images
+val: ./valid/images
